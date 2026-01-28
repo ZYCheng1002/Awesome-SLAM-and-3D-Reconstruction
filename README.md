@@ -5,34 +5,41 @@
 </div>
 
 ## 📇 Table of Contents 
-1. [Survey Papers & Tutorials](#survey-papers--tutorials)
-2. [Development Frameworks & Tools](#development-frameworks--tools)
-3. [Benchmark Datasets](#benchmark-datasets)
-4. [Simultaneous Localization and Mapping (SLAM)](#simultaneous-localization-and-mapping-slam)
+1. [Survey Papers & Tutorials](#survey)
+2. [Development Frameworks & Tools](#frameworks)
+3. [Benchmark Datasets](#benchmark)
+4. [Simultaneous Localization and Mapping (SLAM)](#slam)
 5. [Localization](#localization)
-6. [3D Reconstruction](#3d-reconstruction)
-7. [Contribution Guidelines](#contribution-guidelines)
+6. [3D Reconstruction](#reconstruction)
+7. [Contribution Guidelines](#contribution)
 8. [License](#license)
+9. [Acknowledgement](#acknowledgement)
 
-## 📚 Survey Papers & Tutorials
+<h2 id="survey">📚 Survey Papers & Tutorials</h2>
 
-## 🛠️ Development Frameworks & Tools
+<h2 id="frameworks">🛠️ Development Frameworks & Tools</h2>
 
-## 📊 Benchmark Datasets
+- [cartographer](https://github.com/cartographer-project/cartographer)
+- [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+- [lightning-lm](https://github.com/gaoxiang12/lightning-lm)
 
-## 🎯 Simultaneous Localization and Mapping (SLAM)
+<h2 id="benchmark">📊 Benchmark Datasets</h2>
 
-Classified by sensor type, they fall into three categories: Visual SLAM, LiDAR SLAM, and Multi-sensor Fusion SLAM. For details, please refer to the link: [Awesome-SLAM](docs/Awesome-SLAM.md).
+- [kitti](https://www.cvlibs.net/datasets/kitti/)
 
-## 📍 Localization
+<h2 id="slam">🎯 Simultaneous Localization and Mapping (SLAM)</h2>
+
+Classified by sensor type, they fall into three categories: Visual SLAM, LiDAR SLAM, Multi-sensor Fusion SLAM, and some registration algorithm. For details, please refer to the link: [Awesome-SLAM](docs/Awesome-SLAM.md).
+
+<h2 id="localization">📍 Localization</h2>
 
 For details, please refer to the link: [Awesome-Localization](docs/Awesome-Localization.md).
 
-## 🔧 3D Reconstruction
+<h2 id="reconstruction">🔧 3D Reconstruction</h2>
 
 For details, please refer to the link: [Awesome-3D-Reconstruction](docs/Awesome-3D-Reconstruction.md).
 
-## ✨ Contribution Guidelines
+<h2 id="contribution">✨ Contribution Guidelines</h2>
 
 Contributions are highly welcome to make this repository more comprehensive and up-to-date! All forms of contributions are accepted, including:
 1. Adding new classic/state-of-the-art open-source resources
@@ -47,8 +54,8 @@ Contributions are highly welcome to make this repository more comprehensive and 
 4. Push to the branch and submit a Pull Request
 
 
-## 📄 License
+<h2 id="license">📄 License</h2>
 This repository is licensed under the [Apache-2.0 License](LICENSE).
 
-## 📝 Acknowledgement
+<h2 id="acknowledgement">📝 Acknowledgement</h2>
 Thanks to all the researchers, engineers and open-source contributors who have made outstanding contributions to the SLAM and 3D Reconstruction community. Their open-source algorithms, frameworks, datasets and tutorials are the foundation of this repository.

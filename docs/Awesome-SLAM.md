@@ -2,10 +2,15 @@
     <h1>Awesome SLAM</h1>
 </div>
 
-## Lidar SLAM
+## Registration
 |              Title              |     Date     |    Code    |   Paper   |    Note    |
 | :-----------------------------: | :----------: | :--------: | :-------: | :--------: |
 | DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration | 2025-10 | [Github](https://github.com/JokerJohn/DCReg) | [Arxiv](https://arxiv.org/pdf/2509.06285) | -- |
+
+## Lidar SLAM
+|              Title              |     Date     |    Code    |   Paper   |    Note    |
+| :-----------------------------: | :----------: | :--------: | :-------: | :--------: |
+| FAST-LIO2: Fast Direct LiDAR-inertial Odometry | 2022 | [Github](https://github.com/hku-mars/FAST_LIO) | [Paper](https://ieeexplore.ieee.org/abstract/document/9697912/) | TRO |
 
 ## Visual SLAM
 |              Title              |     Date     |    Code    |   Paper   |    Note    |
