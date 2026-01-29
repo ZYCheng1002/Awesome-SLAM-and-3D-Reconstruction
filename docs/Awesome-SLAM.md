@@ -11,6 +11,9 @@
 |              Title              |     Date     |    Code    |   Paper   |    Note    |
 | :-----------------------------: | :----------: | :--------: | :-------: | :--------: |
 | FAST-LIO2: Fast Direct LiDAR-inertial Odometry | 2022 | [Github](https://github.com/hku-mars/FAST_LIO) | [Paper](https://ieeexplore.ieee.org/abstract/document/9697912/) | TRO |
+| Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation | 2023 | [Github](https://github.com/minwoo0611/MA-LIO) | [Arxiv](https://arxiv.org/abs/2305.16792) | RA-L |
+| iG-LIO: An Incremental GICP-Based Tightly-Coupled LiDAR-Inertial Odometry | 2023 | [Github](https://github.com/zijiechenrobotics/ig_lio) | [Paper](https://ieeexplore.ieee.org/document/10380742) | RA-L |
+| Direct LiDAR Odometry: Fast Localization with Dense Point Clouds | 2022 | [Github](https://github.com/vectr-ucla/direct_lidar_odometry) | [Arxiv](https://arxiv.org/abs/2110.00605) | RA-L |
 
 ## Visual SLAM
 |              Title              |     Date     |    Code    |   Paper   |    Note    |
